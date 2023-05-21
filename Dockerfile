@@ -8,8 +8,8 @@ COPY ./moninet.js .
 #RUN apk add --update nodejs npm
 RUN apt-get update
 RUN apt-get install nodejs -y
-RUN nodejs --version
 RUN apt-get install npm -y
+RUN nodejs --version
 RUN npm --version
 RUN node moninet.js
 
