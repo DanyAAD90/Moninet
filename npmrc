@@ -2,10 +2,10 @@
 #                       
 #always-auth=true
 ; begin auth token
-//pkgs.dev.azure.com/crasher6969/_packaging/moninet/npm/registry/:username=crasher6969
-//pkgs.dev.azure.com/crasher6969/_packaging/moninet/npm/registry/:_password=WU9VUl9QRVJTT05BTF9BQ0NFU1MtVE9LRU4=
-//pkgs.dev.azure.com/crasher6969/_packaging/moninet/npm/registry/:email=npm requires email to be set but doesn't use the value
-//pkgs.dev.azure.com/crasher6969/_packaging/moninet/npm/:username=crasher6969
-//pkgs.dev.azure.com/crasher6969/_packaging/moninet/npm/:_password=WU9VUl9QRVJTT05BTF9BQ0NFU1MtVE9LRU4=
-//pkgs.dev.azure.com/crasher6969/_packaging/moninet/npm/:email=npm requires email to be set but doesn't use the value
+//pkgs.dev.azure.com/crasher6969/moninet/_packaging/moninet/npm/registry/:username=crasher6969
+//pkgs.dev.azure.com/crasher6969/moninet/_packaging/moninet/npm/registry/:_password=WU9VUl9QRVJTT05BTF9BQ0NFU1MtVE9LRU4=
+//pkgs.dev.azure.com/crasher6969/moninet/_packaging/moninet/npm/registry/:email=npm requires email to be set but doesn't use the value
+//pkgs.dev.azure.com/crasher6969/moninet/_packaging/moninet/npm/:username=crasher6969
+//pkgs.dev.azure.com/crasher6969/moninet/_packaging/moninet/npm/:_password=WU9VUl9QRVJTT05BTF9BQ0NFU1MtVE9LRU4=
+//pkgs.dev.azure.com/crasher6969/moninet/_packaging/moninet/npm/:email=npm requires email to be set but doesn't use the value
 ; end auth token
