@@ -33,7 +33,7 @@ K --> H
 
 1. In Azure Devops I constructed a new project `Moninet`.
 2. On Repos I checked if everything is fine.
-3. In Pipeline I set up a work-flow to execute job. `azure-pipelines.yml` had been automatically created in YAML to start job. 
+3. In Pipeline I set up a work-flow to execute job with required agent. `azure-pipelines.yml` had been automatically created in YAML to start job. 
 4. Job is still working correctly with status `running`.
 5. Every time I have made change in code: `moninet.js`  or `Dockerfile` on local host I did command:
 
