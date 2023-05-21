@@ -1,0 +1,11 @@
+{
+  "name": "moninet",
+  "version": "1.0.0",
+  "description": "",
+  "main": "moninet.js",
+  "scripts": {
+    "test": "Hello_network!"
+  },
+  "author": "",
+  "license": "ISC"
+}

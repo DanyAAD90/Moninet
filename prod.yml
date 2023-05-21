@@ -1,0 +1,5 @@
+- task: prod1
+  inputs:
+    command: publish
+    publishRegistry: moninet
+    publishFeed: moninet/moninet
