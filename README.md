@@ -13,6 +13,8 @@ C --> E[Repos]
 E --> F[Pipelines]
 F --> J[Build]
 J --> K[Job]
+K --> M[Artifact]
+M --> N[Release]
 end
 A --> G[Dockerfile]
 G --> H[Image]
@@ -20,7 +22,7 @@ subgraph CD
 H --> I[Azure Container Registries Release]
 H --> L[docker hub public release]
 end
-K --> H
+N --> H
 ```
 
 ### Creating IaC:
