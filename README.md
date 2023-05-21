@@ -43,7 +43,7 @@ git status && git add -A && git commit -m "changeX" && git push
 
 ​      and on the job screen I saw this change almost immediately.
 
-6. After that i create `Artifacts` with `npm publish` command. Artifact is a summary of complete build from pipelines.
+6. After that I created `Artifacts` with `npm publish` command. Artifact is a summary of complete build from pipelines.
 7. I made a `new release` with `deployments`.
 
 ### CD process #1 (ACR):
