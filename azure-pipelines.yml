@@ -40,8 +40,3 @@ stages:
         containerRegistry: $(dockerRegistryServiceConnection)
         tags: |
           $(tag)
-
-- name: Publish NPM package
-   run: npm publish
-   env:
-     NPM_CONFIG_TOKEN: ${{ YnN6Zmh2NDRzNXB4NGZjbmI3dTZ6cGRlc3V1ZGhrZjRwNjQ3ZnpsZ2pyNWt1emU2aDJ2YQ== }}
